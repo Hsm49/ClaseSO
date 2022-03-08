@@ -5,8 +5,6 @@ Se creó para conocer el funcionamiento de GitHub
 
 Este contenido debe ser revisado
 
-------Rama-de-Abraham
-
 Video que explica qué es GitHub:
 
 https://www.youtube.com/watch?v=w3jLJU7DT5E
@@ -15,12 +13,9 @@ https://www.youtube.com/watch?v=w3jLJU7DT5E
 
 ![R](https://user-images.githubusercontent.com/100962574/157309596-285a0b96-ca6d-4892-ae39-484947d3fe11.gif)
 
--------
 Esta es mi parte (Ulises)
 
--------Rama-2-Ulises
 Acepten esto
 
 Comentario de angel
---------main
---------main
+
